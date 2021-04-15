@@ -1,0 +1,16 @@
+C:\Users\Randald\Documents\C#\SERVER\bin\Debug\net5.0\SERVER.exe
+C:\Users\Randald\Documents\C#\SERVER\bin\Debug\net5.0\SERVER.deps.json
+C:\Users\Randald\Documents\C#\SERVER\bin\Debug\net5.0\SERVER.runtimeconfig.json
+C:\Users\Randald\Documents\C#\SERVER\bin\Debug\net5.0\SERVER.runtimeconfig.dev.json
+C:\Users\Randald\Documents\C#\SERVER\bin\Debug\net5.0\SERVER.dll
+C:\Users\Randald\Documents\C#\SERVER\bin\Debug\net5.0\ref\SERVER.dll
+C:\Users\Randald\Documents\C#\SERVER\bin\Debug\net5.0\SERVER.pdb
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\SERVER.csprojAssemblyReference.cache
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\SERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\SERVER.AssemblyInfoInputs.cache
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\SERVER.AssemblyInfo.cs
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\SERVER.dll
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\ref\SERVER.dll
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\SERVER.pdb
+C:\Users\Randald\Documents\C#\SERVER\obj\Debug\net5.0\SERVER.genruntimeconfig.cache
